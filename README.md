@@ -25,6 +25,7 @@ CSS / JSX 구성
 Node.js + npm
 
 # 출처 (References)
+
 ChatGPT — To-Do List 코드 아이디어 및 기능 구현 참고
 React 공식 문서 — https://react.dev/reference/react
 Vite 공식 문서 — https://vitejs.dev/guide/
