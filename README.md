@@ -29,7 +29,7 @@ Node.js + npm
 ChatGPT — To-Do List 코드 아이디어 및 기능 구현 참고
 React 공식 문서 — https://react.dev/reference/react
 Vite 공식 문서 — https://vitejs.dev/guide/
-과제 기획 Notion — https://www.notion.so/2936480ecf1a800484bbc9a4b193cc06
+과제 기획 Notion — https://www.notion.com/ko/product
 
 # Repository
 
