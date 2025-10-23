@@ -32,7 +32,7 @@ React 공식 문서 — https://react.dev/reference/react
 Vite 공식 문서 — https://vitejs.dev/guide/
 과제 기획 Notion — https://www.notion.com/ko/product
 
-# Repository
+# 리포지토리 (Repository)
 
 https://github.com/jeongsoyeon427/react-todo
 
