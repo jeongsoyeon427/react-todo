@@ -5,7 +5,7 @@ React + Vite로 만든 To-Do List 웹 앱으로 준비했습니다.
 
 # 실행 방법
 
-# 코드 작성
+코드 작성
 
 ```bash
 npm install
